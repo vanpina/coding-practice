@@ -1,5 +1,5 @@
-23 - Ler dois valores e escrever o maior deles.
-24 - Ler três valores e escrever o menor deles.
+#23 - Ler dois valores e escrever o maior deles.
+#24 - Ler três valores e escrever o menor deles.
 
 
 

@@ -1,7 +1,7 @@
-07 - Ler o nome de uma pessoa na forma “nome” seguido por “sobrenome” e
-escrever na forma “sobrenome” seguido por “nome”. Exemplo:
-entrada: “Fulano”, “de Tal”
-saída: “de Tal”, “Fulano”
+#07 - Ler o nome de uma pessoa na forma “nome” seguido por “sobrenome” e
+#escrever na forma “sobrenome” seguido por “nome”. Exemplo:
+#entrada: “Fulano”, “de Tal”
+#saída: “de Tal”, “Fulano”
 
 continuar = True
 while continuar:

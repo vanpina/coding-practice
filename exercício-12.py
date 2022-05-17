@@ -1,5 +1,5 @@
-Ler o salário mensal de uma pessoa e o percentual de reajuste, calcular e
-escrever o valor do salário reajustado.
+#Ler o salário mensal de uma pessoa e o percentual de reajuste, calcular e
+#escrever o valor do salário reajustado.
 
 
 salario_mensal = float(input('Digite seu salário mensal: R$'))

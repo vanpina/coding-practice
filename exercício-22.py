@@ -1,4 +1,4 @@
-22 - Ler um valor e escrever se é par ou ímpar.
+#22 - Ler um valor e escrever se é par ou ímpar.
 
 
 numero = int(input("Digite seu número aqui: "))
